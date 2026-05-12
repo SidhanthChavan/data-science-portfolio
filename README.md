@@ -116,3 +116,8 @@ linkedin.com/in/sidhanth-chavan
 github.com/SidhanthChavan
 sidcvn001@gmail.com
 Manchester, UK
+
+---
+
+> **UK Used Car Price Prediction** — [View Repository](https://github.com/SidhanthChavan/UK-Used-Car-Price-Prediction)
+> Part 1: Decision Tree R²=0.88 → Part 2: Stacking Ensemble R²=0.94 · 400,000 records · SHAP interpretability
